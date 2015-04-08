@@ -1,4 +1,4 @@
-#  Learn MySQL 中文版
+#  PHP 中文版
 
 官方英文原版：   
 http://www.tutorialspoint.com/mysql/mysql-insert-query.htm
