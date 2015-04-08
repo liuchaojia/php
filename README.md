@@ -1,7 +1,7 @@
 #  PHP 中文版
 
 官方英文原版：   
-http://www.tutorialspoint.com/mysql/mysql-insert-query.htm
+http://www.tutorialspoint.com/php/index.htm
 
 ## 目的
 
