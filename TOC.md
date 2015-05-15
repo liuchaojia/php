@@ -26,13 +26,13 @@
   - [PHP 错误处理- PHP Error Handling](error-handling.md)
   - [PHP 错误调试 - PHP Bugs Debugging](bugs-debugging.md)
   - [PHP 日期和时间－PHP Date Time](date-time.md)
-  - [PHP MySQL－PHP and MySQL](mysql.md)
+  - [PHP MySQL－PHP and MySQL](mysql/mysql.md)
   - [PHP AJAX－PHP and AJAX](ajax.md)
   - [PHP and XML](xml.md)
   - [PHP 面向对象PHP Object Oriented](object-oriented.md)
   - [PHP对于C语言开发者](developers.md)
   - [PHP对于PERL语言开发者](perl-developers.md)
 - PHP Function Reference
-  - [PHP 内置函数－PHP Built-in Functions](functions.md)
+  - [PHP 内置函数－PHP Built-in Functions](PHP - Function Reference/functions.md)
 - PHP Useful Resources
   - [PHP 帮助资源－PHP Useful Resources](useful-resources.md)
