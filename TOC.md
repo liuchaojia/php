@@ -3,7 +3,7 @@
   - [PHP 简介 - PHP Introduction](introduction.md)
   - [PHP 环境 - PHP Environment](environments/environment.md)
   - [PHP 语法概述 - PHP Syntax Overview](syntax-overview.md)
-  - [PHP 变量类型 - PHP Variable Types](variable-types.md)
+  - [PHP 变量类型 - PHP Variable Types](variable-types/variable-types.md)
   - [PHP 常量- PHP Constants](constants.md)
   - [PHP 运算符类型－PHP Operator Types](operator-types.md)
   - [PHP 结构控制－PHP Decision Making](decision-making.md)
