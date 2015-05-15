@@ -1,7 +1,7 @@
 - 学习 - PHP  
   - [PHP 主页 - PHP Home](home.md)
   - [PHP 简介 - PHP Introduction](introduction.md)
-  - [PHP 环境 - PHP Environment](environment.md)
+  - [PHP 环境 - PHP Environment](environments/environment.md)
   - [PHP 语法概述 - PHP Syntax Overview](syntax-overview.md)
   - [PHP 变量类型 - PHP Variable Types](variable-types.md)
   - [PHP 常量- PHP Constants](constants.md)
